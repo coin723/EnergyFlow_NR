@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1446137326018.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B5FC6555",
+    "lastKnownWriteTime" : 0,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "0blhaj1x2l",
+        "caption" : "pro_2013",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=pro_2013&cache_key=0blhaj1x2l",
+        "displayedObservations" : 17,
+        "environment" : "",
+        "object" : "pro_2013",
+        "totalObservations" : 17,
+        "variables" : 8
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

@@ -1,0 +1,18 @@
+{
+    "contents" : "pro_2013 <- read.csv('pro-2013-xls.csv', encoding = 'utf-8', stringsAsFactors = FALSE)\nsup_2013 <- read.csv('sup-2013-xls.csv', encoding = 'utf-8', stringsAsFactors = FALSE)\nuse_2013_field <- read.csv('use-2013-field-xls.csv', encoding = 'utf-8', stringsAsFactors = FALSE)\nuse_2013_source <- read.csv('use-2013-source-xls.csv', encoding = 'utf-8', stringsAsFactors = FALSE)\n",
+    "created" : 1446132262443.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3066594813",
+    "id" : "A9B83038",
+    "lastKnownWriteTime" : 1446137248,
+    "path" : "~/GitHub/SeoulEnergy_NR/gatherData.R",
+    "project_path" : "gatherData.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_source"
+}
